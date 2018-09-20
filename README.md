@@ -11,3 +11,4 @@
 	k8s-dns-dnsmasq-nanny-amd64:1.14.5
 	flannel:v0.9.1-amd64
 	kube-addon-manager:v8.6
+	k8s-minikube/storage-provisioner:v1.8.1
